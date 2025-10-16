@@ -36,7 +36,8 @@ Ao final deste desafio, foi possível:
 As capturas de tela e registros do processo estão disponíveis na pasta /images deste repositório.  
 Elas mostram o processo de criação da stack, execução do CloudFormation e validações no console da AWS.
 
----
+---[imagem awsDIO.zip](https://github.com/user-attachments/files/22959103/imagem.awsDIO.zip)
+
 
 ## ✨ Conclusão
 Este projeto proporcionou uma visão prática de como o *AWS CloudFormation* simplifica a criação e manutenção de recursos na nuvem, tornando a infraestrutura *mais ágil, padronizada e segura*.  
